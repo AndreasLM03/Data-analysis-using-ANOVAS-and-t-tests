@@ -19,13 +19,12 @@ The data were recorded at 60Hz, so I first had to filter out every single respon
 
 The data are prepared for each scenario. First I check if the data have outliers, these are treated by a winsorization. 
 
-
 Now my hypothesis is that the mental workload differs depending on the execution of an activity. For this I use an ANOVA.
 
 
-
 First I want to represent the present activities graphically in the form of boxplots.
-
-
+<img src= "2.png" width="800">
 
 Here I can already see that there are differences. However, I do not know yet which activities differ significantly. 
+
+<img src= "3.png" width="800">
